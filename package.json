@@ -1,7 +1,7 @@
 {
-    "name": "your-project-name",
+    "name": "LGTCH Test Task",
     "version": "1.0.0",
-    "description": "Your project description",
+    "description": "LGTCH Reacrutation technical interview",
     "main": "index.js",
     "scripts": {
       "start": "react-scripts start",
@@ -12,7 +12,8 @@
     "keywords": [
       "react",
       "redux",
-      "redux-toolkit"
+      "redux-toolkit",
+      "typescript"
     ],
     "author": "Your Name",
     "license": "MIT",
@@ -20,7 +21,11 @@
       "react": "^18.0.0",
       "react-dom": "^18.0.0",
       "react-scripts": "5.0.0",
-      "@reduxjs/toolkit": "^1.6.1"
+      "@reduxjs/toolkit": "^1.6.1",
+      "@types/react": "^17.0.0",
+      "@types/react-dom": "^17.0.0",
+      "@types/redux": "^4.1.0",
+      "@types/react-redux": "^7.1.16"
     },
     "devDependencies": {},
     "browserslist": {
