@@ -2,10 +2,13 @@
 
 ## Most important information
  
-- NVM
+- npm
+- nvm
 - Node version 14.0.0
 
 ## Installation/setup steps
+- npm i -g yarn
+- yarn install
 
 ## Running tests
 
